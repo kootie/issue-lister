@@ -1,0 +1,3 @@
+PDO classes
+template class
+error on autoload redeclaration
